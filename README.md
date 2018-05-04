@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2018 corrigentia
+2018 corrigentia. All rights reserved.
